@@ -1,0 +1,10 @@
+cache_dir: null
+hub_name: huggingface
+lang: zh
+last_model: Qwen3.5-35B-A3B-Base
+path_dict:
+  Qwen3.5-0.8B-Base: /data/zhengtianlong/paper02/PLM/Qwen/Qwen3.5-0.8B-Base
+  Qwen3.5-2B-Base: /data/zhengtianlong/paper02/PLM/Qwen/Qwen3.5-2B-Base
+  Qwen3.5-35B-A3B-Base: /data/zhengtianlong/paper02/PLM/Qwen/Qwen3.5-35B-A3B-Base
+  Qwen3.5-4B-Base: /data/zhengtianlong/paper02/PLM/Qwen/Qwen3.5-4B-Base
+  Qwen3.5-9B-Base: /data/zhengtianlong/paper02/PLM/Qwen/Qwen3.5-9B-Base

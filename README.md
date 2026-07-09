@@ -175,9 +175,6 @@ The analysis computes:
 - Lexical visibility analysis: performance under explicit and weak lexical cues.
 - High-risk failures: severe-state misses and suicide-intent-related errors.
 
-## Notes for Artifact Submission
-
-Before public release, use a clean archive that excludes generated caches, local environment files, private credentials, model checkpoints, and local prediction outputs unless they are intentionally released as artifact records. Public raw datasets should follow their original licenses. If raw text redistribution is restricted, release sample identifiers, derived labels, prompts, parsers, prediction records, and metric scripts instead.
 
 ## Ethics and Intended Use
 

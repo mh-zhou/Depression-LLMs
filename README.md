@@ -1,4 +1,4 @@
-# Structural-Validity Audit for Depression-Language LLM Inference
+#  A Structural-Validity Audit Framework for Large Language Model-Based Depression-Language Inference
 
 This repository contains the artifact package for a reproducible structural-validity audit of large language models (LLMs) for depression-language inference. The code reconstructs annotation-derived readouts from two public datasets, evaluates prompted and adapted LLM routes, and analyzes whether model outputs preserve endpoint labels, ordinal severity, symptom-language profiles, coupled symptom states, annotation uncertainty, and lexical visibility.
 

@@ -14,8 +14,6 @@ The artifact is intended for scientific auditing and reproducibility. It is not 
 | `DEPTWEET_Split.ipynb` | Reconstructs the DEPTWEET train/validation/test splits used by the audit. |
 | `SFT_data_create.ipynb` | Builds instruction-tuning and preference-training files for binary, ordinal, symptom, and joint readouts. |
 | `Evaluate_LLMs/` | Prompted evaluation notebooks for open and closed LLM routes across binary, ordinal, and symptom readouts. |
-| `Evaluate_Close_LLMs.ipynb` | Additional prompted evaluation notebook for closed LLM routes. |
-| `analysis.ipynb` | Computes endpoint and structural-validity metrics from prediction records. |
 | `interpretability9B.py` | Generates route-level structural and interpretability analyses from saved prediction files. |
 | `LlamaFactory/` | Fine-tuning framework with registered audit datasets and training configurations. |
 | `LlamaFactory/data/` | Converted instruction datasets for SFT, joint SFT, and SFT-to-KTO routes. |
